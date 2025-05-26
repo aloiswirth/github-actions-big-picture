@@ -1,5 +1,7 @@
 ## Project repository for the Pluralsight course, GitHub Actions: The Big Picture
 
+https://app.pluralsight.com/library/courses/github-actions-big-picture/table-of-contents
+
 This repository contains the core web application files and configuration you'll need to follow along in the Pluralsight course, GitHub Actions: The Big Picture.
 
 To follow along with the step-by-step instructions in the Essentials module, you will need to create a copy of this repository by doing the following:
